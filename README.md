@@ -15,3 +15,7 @@
 Exemplo de uso:
 
 `nodemon <nome_arquivo>`
+
+- Instalando o mysql no projeto
+
+`npm install mysql --save`
